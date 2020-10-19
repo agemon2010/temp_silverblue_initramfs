@@ -1,0 +1,1 @@
+--reproducible --gzip -v --add 'ostree' --tmpdir '/tmp/dracut' -f --no-hostonly --kver '5.8.14-200.fc32.x86_64'
